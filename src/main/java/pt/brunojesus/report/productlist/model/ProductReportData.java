@@ -9,6 +9,15 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * The data that goes into a Product List Report
+ *
+ * @author Bruno Jesus
+ * @version 1.0
+ * @see ReportData
+ * @see pt.brunojesus.report.common.ReportCompiler
+ * @since 2023-05-17
+ */
 public class ProductReportData implements ReportData {
 
     protected String name;

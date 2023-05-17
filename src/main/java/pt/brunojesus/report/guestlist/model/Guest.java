@@ -1,5 +1,12 @@
 package pt.brunojesus.report.guestlist.model;
 
+/**
+ * Represents a Guest entry in the {@link GuestReportData}
+ *
+ * @author Bruno Jesus
+ * @version 1.0
+ * @since 2023-05-17
+ */
 public class Guest {
 
     private String name;

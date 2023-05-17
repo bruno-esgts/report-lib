@@ -1,5 +1,12 @@
 package pt.brunojesus.report.productlist.model;
 
+/**
+ * Represents a Product entry in the {@link ProductReportData}
+ *
+ * @author Bruno Jesus
+ * @version 1.0
+ * @since 2023-05-17
+ */
 public class Product {
     private String id;
     private String name;
